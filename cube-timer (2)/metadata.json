@@ -1,0 +1,5 @@
+{
+  "name": "Cube Timer",
+  "description": "A mobile-friendly Rubik's Cube timer with randomly generated scrambles and statistics.",
+  "requestFramePermissions": ["bluetooth", "microphone"]
+}
